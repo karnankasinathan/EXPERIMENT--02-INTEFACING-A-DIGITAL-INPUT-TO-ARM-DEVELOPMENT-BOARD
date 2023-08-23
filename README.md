@@ -130,12 +130,13 @@ void assert_failed(uint8_t *file, uint32_t line)
 
 ## Output  :
 # photo1 :
-![02a](https://github.com/karnankasinathan/EXPERIMENT--02-INTEFACING-A-DIGITAL-INPUT-TO-ARM-DEVELOPMENT-BOARD/assets/118787064/0bdc1684-55ee-4369-b2cb-36fbf9b2bcf4)
+![2a](https://github.com/karnankasinathan/EXPERIMENT--02-INTEFACING-A-DIGITAL-INPUT-TO-ARM-DEVELOPMENT-BOARD/assets/118787064/b8b28d46-57d6-4151-baed-a0efc887d7b5)
+
 
  # photo2 :
- ![02b](https://github.com/karnankasinathan/EXPERIMENT--02-INTEFACING-A-DIGITAL-INPUT-TO-ARM-DEVELOPMENT-BOARD/assets/118787064/4aa22eed-1b93-4e89-8f94-93a93c6304ad)
 
- 
+ ![2b](https://github.com/karnankasinathan/EXPERIMENT--02-INTEFACING-A-DIGITAL-INPUT-TO-ARM-DEVELOPMENT-BOARD/assets/118787064/45d83331-84a2-4ff4-956d-0cf76b8fb627)
+
  
  
 ## Result :
